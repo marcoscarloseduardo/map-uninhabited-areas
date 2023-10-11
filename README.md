@@ -1,4 +1,6 @@
-# Map uninhabited areas with R
-In this repo, you will learn how to use the Global Human Settlement Layer (GHSL) population data to map the uninhabited areas of the world using R and ggplot2. The GHSL population data is a high-resolution gridded 
+# Map density population areas with R
+In this repository, you will learn how to use the [Global Human Settlement Layer (GHSL)](https://ghsl.jrc.ec.europa.eu/) population data to map the population density of one or multiple countries, using R and ggplot2. Argentina is used as an example.
 
-![alt text](https://github.com/milos-agathon//map-uninhabited-areas/blob/main/australia_population.png?raw=true)
+This tutorial is based on a guide developed by [Milos Popovic](https://twitter.com/milos_agathon). 
+
+![alt text](https://github.com/marcoscarloseduardo/map-uninhabited-areas/plots/AR_20231011_093901.jpg?raw=true)
